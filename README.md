@@ -58,3 +58,20 @@ DNS routing is handled by Amazon Route 53.
 Akunna  
 AWS Cloud Project – Static Website Hosting
 
+## Project Status
+
+This project is complete.
+
+Scope:
+- Frontend static website hosting on AWS
+- CDN, security, and authentication design
+- Architecture documentation
+
+Out of scope (intentional):
+- Backend APIs
+- Databases
+- Payment processing
+- Application business logic
+
+Future backend services will be designed in a separate project.
+
